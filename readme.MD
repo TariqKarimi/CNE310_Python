@@ -21,6 +21,7 @@ Python Assignment.py
 This site was built using [ReadMe Guide](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).
 
 #Thanks
+
 ```
 
 Thanks to my instructor Dr. Zak for helping me to learn more. 
