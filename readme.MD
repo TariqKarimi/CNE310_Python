@@ -25,6 +25,15 @@ def determine_letter_grade(grade):
     else:
          F
 ```
+# Prerequisites
+
+1-Installation and usage.
+2-Congiguration
+3-Code of conduct
+
+# Links
+
+This site was built using [My work](https://github.com/Sarmadkubba/CNE310_Python/blob/master/readme.MD).
 
 # Running
 Once installed you can run the program with the following command
@@ -32,11 +41,12 @@ Once installed you can run the program with the following command
 
 Python Assignment.py
 ```
-# Links
-```
+# Task lists
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
 
-This site was built using [My work](https://github.com/Sarmadkubba/CNE310_Python/blob/master/readme.MD).
-```
+
 # Thanks
 
 ```
