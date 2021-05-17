@@ -1,4 +1,4 @@
-# Readme Test
+# New project for python practice 
 Hello world! **This is bolded**
 ~~This has a strikethrough~~
 
