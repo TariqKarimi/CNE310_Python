@@ -27,9 +27,9 @@ def determine_letter_grade(grade):
 ```
 # Prerequisites
 
-1-Installation and usage.
-2-Congiguration
-3-Code of conduct
+1- Installation and usage.
+2- Configuration
+3- Code of conduct
 
 # Links
 
