@@ -6,3 +6,11 @@ def lone_sum(a, b, c):    if a >= b:
     else:        return a+b+c
 
     
+if_name_=='_main_':
+        x=int(input())
+        y=int(input())
+        z=int(input())
+        
+        result = lone_sum(x, y, z)
+        print("Input: " + str{x} + ", " + str(y) + ", " + str(z))
+        print("result: " + str(result))
